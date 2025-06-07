@@ -1,0 +1,18 @@
+{
+    "name": "mappy-mcp-server",
+    "version": "0.0.1",
+    "description": "A minimal MCP server for Cursor using the official SDK",
+    "main": "server.js",
+    "type": "module",
+    "keywords": [
+      "mcp",
+      "cursor",
+      "model-context-protocol",
+      "bootstrap"
+    ],
+    "license": "MIT",
+    "dependencies": {
+      "@modelcontextprotocol/sdk": "^1.7.0",
+      "zod": "^3.22.4"
+    }
+  }
